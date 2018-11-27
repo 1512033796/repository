@@ -5,6 +5,7 @@ public class gitTest {
         System.out.println(1111111);
     }
     public void test1(){
+        int i = 10;
         System.out.println("test1");
     }
 }
